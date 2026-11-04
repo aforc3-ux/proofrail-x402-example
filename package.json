@@ -1,0 +1,12 @@
+
+{
+  "name": "proofrail-x402-example",
+  "private": true,
+  "description": "Minimal buyer for the Proof Rail payee check over x402.",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.38.0"
+  }
+}
+
+
